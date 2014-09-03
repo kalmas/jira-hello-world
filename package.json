@@ -1,0 +1,21 @@
+
+{
+  "name": "jira-hello-world",
+  "version": "0.1.0",
+  "description": "Hi Jira",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "~4.8.x"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kalmas/jira-hello-world"
+  },
+  "author": "kalmas"
+}
