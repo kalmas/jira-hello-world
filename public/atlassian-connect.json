@@ -2,7 +2,7 @@
     "name": "Hello World",
     "description": "Atlassian Connect add-on",
     "key": "com.example.myaddon",
-    "baseUrl": "http://kalmas.net",
+    "baseUrl": "https://mighty-earth-5917.herokuapp.com",
     "vendor": {
         "name": "kalmas-net",
         "url": "http://kalmas.net"
