@@ -1,7 +1,7 @@
 {
     "name": "Hello World",
     "description": "Atlassian Connect add-on",
-    "key": "com.example.myaddon",
+    "key": "net.kalmas.jira.hello",
     "baseUrl": "https://mighty-earth-5917.herokuapp.com",
     "vendor": {
         "name": "kalmas-net",
