@@ -3,6 +3,7 @@ jira-hello-world
 
 Just a trivial example of a plugin for an OnDemand instance of JIRA using Atlassian Connect. Based on [this tutorial](https://developer.atlassian.com/static/connect/docs/guides/getting-started.html).
 
+
 To Deploy
 ---------
 
@@ -16,6 +17,7 @@ To Deploy
   - ALL the metadata!
 5. Install add-on in Univeral Plugin Manager (Cog Icon > Add-Ons > Manage Add-Ons > Upload Add-On)
 
+
 Useful Links
 ------------
 
@@ -28,14 +30,3 @@ Useful Links
 [REST API Browser Docs](https://developer.atlassian.com/display/DOCS/Using+the+REST+API+Browser)
 
 [Demo JIRA REST API Browser](https://jira.atlassian.com/plugins/servlet/restbrowser#/)
-
-Example Endpoints
------------------
-
-**agile versions**
-
-https://forrent.atlassian.net/rest/greenhopper/1.0/xboard/plan/backlog/versions?rapidViewId=30
-
-**agile version chart**
-
-https://forrent.atlassian.net/rest/greenhopper/1.0/rapid/charts/versionprogresschart?rapidViewId=30&versionId=10601&_=1409842260217
